@@ -1,4 +1,4 @@
-# yelpcamp
+# YelpCamp
 
 YelpCamp -  A full stack web application clone of Yelp for reviewing campgrounds. Built using HTML, CSS, JavaScript, Bootstrap, NodeJS, Express and MongoDB.
 
