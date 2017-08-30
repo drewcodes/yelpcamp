@@ -6,3 +6,4 @@ YelpCamp -  A full stack web application clone of Yelp for reviewing campgrounds
 - New campgrounds can be added, deleted or edited.
 - Users can leave comments and comment on other users' comments.
 - Login was created and authenticated using Passport.
+- This application is also RESTful.
